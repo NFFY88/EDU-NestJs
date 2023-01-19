@@ -1,8 +1,8 @@
 {
-  "name": "nest-app",
+  "name": "EDU-NestJs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This is a repository for learning NestJS.",
+  "author": "Danil Buslaev",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
